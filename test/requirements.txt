@@ -1,0 +1,3 @@
+-r ../platform_serverless_test_lib/requirements.txt
+
+
